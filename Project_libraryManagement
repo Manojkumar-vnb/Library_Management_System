@@ -15,9 +15,8 @@ print("MAIN branch change")
 
     print("LOGIN FEATURE branch change")
 
-<<<<<<< HEAD
 print("local update")
-=======
+
 print("new update")
 
->>>>>>> 6249fb5f181c36c502a041340ceff1c7dd1b6d88
+
