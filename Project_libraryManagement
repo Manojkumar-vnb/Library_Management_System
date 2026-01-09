@@ -1,8 +1,17 @@
 print("Hello world")
-print("modifying existing file")
+<<<<<<< HEAD
+print("main branch modification")
 
 def login():
-    print(" Successfully User has logged in")
+    print("Successfully User has logged in")
+=======
+print("login feature modification")
 
-    print("change from VS Code reflected on GitHub")
-
+def login():
+<<<<<<< HEAD
+    print("User logged in via login feature")
+>>>>>>> login-feature
+print("MAIN branch change")
+=======
+    print("LOGIN FEATURE branch change")
+>>>>>>> login-feature
