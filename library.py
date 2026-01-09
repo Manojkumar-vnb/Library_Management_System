@@ -8,7 +8,11 @@ def login():
 print("login feature modification")
 
 def login():
+<<<<<<< HEAD
     print("User logged in via login feature")
 >>>>>>> login-feature
 print("MAIN branch change")
+=======
+    print("LOGIN FEATURE branch change")
+>>>>>>> login-feature
 
